@@ -1,10 +1,12 @@
 "use client";
 import { TextGenerateEffect } from "../app/components/ui/text-generate-effect";
 
-const words = `Oxygen gets you high. In a catastrophic emergency, we're taking giant, panicked breaths. Suddenly you become euphoric, docile. You accept your fate. It's all right here. Emergency water landing, six hundred miles an hour. Blank faces, calm as Hindu cows
-`;
+const words = `And to turn ideas into reality\nWe all work together with this in mind`;
 
 export function TextGenerateEffectDemo() {
-  return 
-  <TextGenerateEffect words={words} />;
+  return (
+    <>
+      <TextGenerateEffect words={words} />
+    </>
+  );
 }

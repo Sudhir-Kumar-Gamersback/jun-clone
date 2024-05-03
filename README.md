@@ -2,8 +2,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+![Create Next App - Google Chrome 2024-05-03 21-22-07](https://github.com/Sudhir-Kumar-Gamersback/jun-clone/assets/167057380/e176067e-76d1-4e24-9514-384df691590b)
 
-![Create Next App - Google Chrome 2024-05-01 15-43-53](https://github.com/Sudhir-Kumar-Gamersback/jun-clone/assets/167057380/ff0be72d-3ba3-4888-9722-645c954a1609)
+
 
 First, run the development server:
 
